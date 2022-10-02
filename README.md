@@ -28,10 +28,11 @@ The users of Commoditic's metal commodities prices data are of diverse backgroun
 
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
-https://commoditic.com/api/v1/commodities
-    ?key=[API-KEY]&category=metals
 
-{
+<p><strong>API endpoints<p>
+<p><a href="https://tradefeeds.com/api-documentation"> https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=metals</a></p>
+
+
     "status": {
         "message": "Success"
     },
@@ -49,7 +50,6 @@ https://commoditic.com/api/v1/commodities
             "Date": "2022.07.20"
         }
     [
-}
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
