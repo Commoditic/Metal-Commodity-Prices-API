@@ -30,7 +30,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints<p>
-<p><a href="https://commoditic.com/commodities-metals-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=metals</a></p>
+<p><a href="https://commoditic.com/commodities-metals-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=metals</a></p>
 
 
     "status": {
@@ -48,9 +48,71 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Monthly Percentage Change": "-7.52%"
             "Yearly Percentage Change": "-6.02%"
             "Date": "2022.07.20"
-        }
-    [
+     
+ 
+ <p><a href="https://commoditic.com/commodities-metals-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=metals</a></p>
+ 
 
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+            "category": "Metals",
+            "Name": "Gold"
+            "Unit": "USD/T.oz"
+            "Price": "1696.148"
+            "Day Price Change": "14.59"
+            "Day Percentage Change": "-0.85%"
+            "Weekly Percentage Change": -2.33%"
+            "Monthly Percentage Change": "-7.52%"
+            "Yearly Percentage Change": "-6.02%"
+            "Date": "2022.07.20"
+            
+            
+            "category": "Metals",
+            "Name": "Iron ore"
+            "Unit": "USD/T"
+            "Price": "98.00"
+            "Day Price Change": "0.00"
+            "Day Percentage Change": "00.00%"
+            "Weekly Percentage Change": -2.97%"
+            "Monthly Percentage Change": "-0.51%"
+            "Yearly Percentage Change": "-10.91%"
+            "Date": "2022.10.06"
+            
+            
+            "category": "Metals",
+            "Name": "Steel"
+            "Unit": "CNY/T"
+            "Price": "3936.00"
+            "Day Price Change": "-38.00"
+            "Day Percentage Change": "-0.96%"
+            "Weekly Percentage Change": -0.30%"
+            "Monthly Percentage Change": "1.63%"
+            "Yearly Percentage Change": "-33.57%"
+            "Date": "2022.09.30"
+            
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
