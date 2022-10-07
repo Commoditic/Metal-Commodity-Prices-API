@@ -55,6 +55,6 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
 <h2>Legal</h2>
-<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="https://commoditic.com/terms-and-conditions/"></a>Terms and Conditions</p>
+<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="https://commoditic.com/terms-and-conditions/"> </a> Terms and Conditions </p>
 
 
