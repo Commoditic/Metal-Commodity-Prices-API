@@ -30,7 +30,7 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 
 
 <p><strong>API endpoints<p>
-<p><a href="https://tradefeeds.com/api-documentation"> https://commoditic.com/api/v1/commodities?key=[API-KEY]&category=metals</a></p>
+<p><a href="https://commoditic.com/commodities-metals-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=metals</a></p>
 
 
     "status": {
